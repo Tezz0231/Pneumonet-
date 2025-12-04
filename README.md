@@ -30,14 +30,6 @@
 | 📱 GitHub Main       | 🟢 **ACTIVE** | [pneumonet-ai-detection](https://github.com/Sheryansh0/pneumonet-ai-detection) | Clean codebase |
 | 📱 GitHub Frontend   | 🟢 **ACTIVE** | [pneumonet-frontend](https://github.com/Sheryansh0/pneumonet-frontend)         | Responsive UI  |
 
-## 🎬 **Live System Demo**
-
-### 📹 **5-Minute Production Demo**
-
-https://github.com/user-attachments/assets/8fcec46f-808e-44bb-9208-2aeccc061115
-
-_Watch the complete system demonstration showing live pneumonia detection with real-time AI analysis, Grad-CAM visualization, and professional medical interface._
-
 **Demo Highlights:**
 
 - 🎯 **Live AI Prediction** - Real-time chest X-ray analysis
